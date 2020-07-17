@@ -129,12 +129,12 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Custom Reusable CSS Components
 ![Slide 6](img/slide-6.jpg)
 
-### Sass
-+ [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) by Jonas Schmedtmann *(125 lectures / 28hrs)*
-+ [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmüller *(296 lectures / 22.5hrs)*
-+ [SASS - The Complete SASS Course (CSS Preprocessor)](https://www.udemy.com/course/sass-the-complete-sass-course-css-preprocessor/) by Code And Create *(51 lectures / 6hrs)*
-+ [The Complete Sass & SCSS Course: From Beginner to Advanced](https://www.udemy.com/course/sasscourse/) by Joe Parys *(41 lectures / 4hrs)*
-+ [The Sass Course! Learn Sass for Real-World Websites](https://www.udemy.com/course/learn-sass/) by Brad Hussey *(18 lectures / 3.5hrs)*
++ Suggested YouTube Videos:
+    + [Social Network Theme With Sass](https://www.youtube.com/watch?v=IFM9hbapeA0)
+    + [Responsive Portfolio Project](https://www.youtube.com/playlist?list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU)
+    + [Fancy Form UI From Scratch](https://www.youtube.com/watch?v=AiTdhLc8JCo)
+
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#sass)
 
 
 
