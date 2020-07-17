@@ -54,36 +54,39 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + MacOS
 + Windows
 
-### Text Editors
-+ [Atom](https://atom.io/)
-+ [Brackets](http://brackets.io/)
-+ [Komodo Edit](https://www.activestate.com/products/komodo-edit/)
+### Text Editor / IDE
++ [Eclipse](https://www.eclipse.org/ide/)
 + [Sublime Text](https://www.sublimetext.com/)
++ [Visual Studio](https://visualstudio.microsoft.com/)
 + [Visual Studio Code](https://code.visualstudio.com/)
 
-### IDEs
-+ [JetBrains](https://www.jetbrains.com/) *JetBrains has multiple IDEs for multiple languages*
-+ [Komodo IDE](https://www.activestate.com/products/komodo-ide/)
-+ [Visual Studio](https://visualstudio.microsoft.com/)
++ [Shearer's Text Editor Links](https://github.com/covuworie/web-development-2020-course-list#text-editors)
++ [Shearer's IDE Links](https://github.com/covuworie/web-development-2020-course-list#ides)
 
 ### Browser
 + [Chrome](https://www.google.com/chrome/)
 + [Firefox](https://www.mozilla.org/en-CA/firefox/)
-+ [Opera](https://www.opera.com/)
 
-### Design
-+ [Adobe Illustrator](https://www.adobe.com/ca/products/illustrator.html)
-+ [Adobe Photoshop](https://www.photoshop.com/)
++ [Shearer's Links](https://github.com/covuworie/web-development-2020-course-list#browser)
+
+### Terminal
++ [Bash](https://www.gnu.org/software/bash/)
++ [Zsh](https://www.zsh.org/)
++ [Powershell](https://docs.microsoft.com/en-us/powershell/)
++ [Git Bash](https://git-scm.com/downloads)
++ [iTerm2](https://www.iterm2.com/)
++ [Hyper](https://hyper.is/)
+
+### Design (Optional)
 + [Adobe XD](https://www.adobe.com/ca/products/xd.html)
-+ [Affinity](https://affinity.serif.com)
 + [Figma](https://www.figma.com/)
-+ [InVision](https://www.invisionapp.com/)
++ [Photoshop](https://www.photoshop.com/)
 + [Sketch](https://www.sketch.com/)
 
-## UI/UX
-+ [User Experience Design Essentials - Adobe XD UI UX Design](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/) by Daniel Walter Scott *(93 lectures / 11.5hrs)*
++ [Shearer's Links](https://github.com/covuworie/web-development-2020-course-list#design)
 
-Now while it is true that once you work on a team/for a company, there is very likely going to be a UI/UX Designer, and you will focus on the development aspect of that project. But having even a bit of experience under your belt and a keen eye for design can be greatly beneficial, especially if you want to work as a Front-End Developer. The course above by Daniel Walter Scott is perfect for just that. He walks you through the entire processing of being a UI/UX Designer, and you get to use Adobe XD, which is a completely free and fantastic wireframing/design tool.
+### UI/UX (Optional)
++ [Shearer's Links](https://github.com/covuworie/web-development-2020-course-list#uiux)
 
 
 
