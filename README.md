@@ -165,29 +165,18 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Vanilla JavaScript
 ![Slide 8](img/slide-8.jpg)
 
-### For Beginners
-+ [JavaScript - The Complete Guide 2020 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) by Maximilian Schwarzmüller *(614 lectures / 52.5hrs)*
-+ [JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) by Anthony Alicea *(85 lectures / 11.5hrs)*
-+ [Learn JavaScript: Full-Stack from Scratch](https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/) by Brad Schiff *(119 lectures / 27hrs)*
-+ [Modern JavaScript (from Novice to Ninja)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/) by Shaun Pelling *(173 lectures / 19hrs)*
-+ [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/) by Brad Traversy *(122 lectures / 21.5hrs)*
-+ [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann *(166 lectures / 28hrs)*
-+ [The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/) by Andrew Mead *(155 lectures / 29.5hrs)*
-+ [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/) by Colt Steele & Stephen Grider *(483 lectures / 52hrs)*
-
-### ES6 Focused
-+ [Accelerated ES6 JavaScript Training](https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/) by Maximilian Schwarzmüller *(115 lectures / 6hrs)*
-+ [ES6 Javascript: The Complete Developer's Guide](https://www.udemy.com/course/javascript-es6-tutorial/) by Stephen Grider *(68 lectures / 6hrs)*
-
-### Project Focused
-+ [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/) by Brad Traversy *(121 lectures / 6hrs)*
-+ [JavaScript 50+ projects and applications Monster JavaScript](https://www.udemy.com/course/javascript-course-projects/) by Laurence Svekis *(656 lectures / 47.5hrs)*
-+ [Javascript Tutorial and Projects Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/) by John Smilga *(314 lectures / 53.5hrs)*
-
-### Advanced JavaScript
-+ [Advanced JavaScript](https://www.udemy.com/course/javascript-advanced/) by Asim Hussain *(47 lectures / 6.5hrs)*
-+ [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) by Andrei Neagoie *(216 lectures / 24.5hrs)*
-+ [Advanced JavaScript Topics](https://www.udemy.com/course/learn-modern-javascript-advanced-topics/) by Steven Hancock *(89 lectures / 15hrs)*
++ [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
++ Suggested YouTube Videos:
+    + [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+    + [JavaScript DOM Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s)
+    + [JavaScript OOP Crash Course (ES5 & ES6)](https://www.youtube.com/watch?v=vDJpGenyHaA)
+    + [Async JS Crash Course (Callbacks, Promises, Async Await)](https://www.youtube.com/watch?v=PoRJizFvM7s)
+    + [Vanilla JS Playlist](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX)
++ Suggested Udemy Courses:
+    + [Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/)
+    + [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+    
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#vanilla-javascript)
 
 
 
