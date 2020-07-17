@@ -63,6 +63,11 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Text Editor Links](https://github.com/andrews1022/web-development-2020-course-list#text-editors)
 + [Shearer's IDE Links](https://github.com/andrews1022/web-development-2020-course-list#ides)
 
++ Suggested YouTube Videos:
+    + [My Top 5 Free Text Editors For Web Development](https://www.youtube.com/watch?v=AJnhqf5IRC4)
+    + [Visual Studio Code Intro & Setup](https://www.youtube.com/watch?v=fnPhJHN0jTE)
+    + [15 VS Code Extensions for Front-End Developers in 2019](https://www.youtube.com/watch?v=LdF2RcelRg0)
+
 ### Browser
 + [Chrome](https://www.google.com/chrome/)
 + [Firefox](https://www.mozilla.org/en-CA/firefox/)
