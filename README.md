@@ -60,14 +60,14 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Visual Studio](https://visualstudio.microsoft.com/)
 + [Visual Studio Code](https://code.visualstudio.com/)
 
-+ [Shearer's Text Editor Links](https://github.com/covuworie/web-development-2020-course-list#text-editors)
-+ [Shearer's IDE Links](https://github.com/covuworie/web-development-2020-course-list#ides)
++ [Shearer's Text Editor Links](https://github.com/andrews1022/web-development-2020-course-list#text-editors)
++ [Shearer's IDE Links](https://github.com/andrews1022/web-development-2020-course-list#ides)
 
 ### Browser
 + [Chrome](https://www.google.com/chrome/)
 + [Firefox](https://www.mozilla.org/en-CA/firefox/)
 
-+ [Shearer's Links](https://github.com/covuworie/web-development-2020-course-list#browser)
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#browser)
 
 ### Terminal
 + [Bash](https://www.gnu.org/software/bash/)
@@ -83,10 +83,10 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Photoshop](https://www.photoshop.com/)
 + [Sketch](https://www.sketch.com/)
 
-+ [Shearer's Links](https://github.com/covuworie/web-development-2020-course-list#design)
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#design)
 
 ### UI/UX (Optional)
-+ [Shearer's Links](https://github.com/covuworie/web-development-2020-course-list#uiux)
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#uiux)
 
 
 
