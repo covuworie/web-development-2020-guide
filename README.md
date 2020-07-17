@@ -99,13 +99,14 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ![Slide 4](img/slide-4.jpg)
 
 ### HTML
++ [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 + Suggested YouTube Videos:
     + [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
-
-+ Suggested Udemy Course:
++ Suggested Udemy Courses:
     + [Modern HTML & CSS From The Beginning](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
 
 ### CSS
++ [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 + Suggested YouTube Videos:
     + [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
     + [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
@@ -129,6 +130,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Custom Reusable CSS Components
 ![Slide 6](img/slide-6.jpg)
 
++ [Syntactically Awesome Style Sheets (Sass)](https://sass-lang.com/)
 + Suggested YouTube Videos:
     + [Social Network Theme With Sass](https://www.youtube.com/watch?v=IFM9hbapeA0)
     + [Responsive Portfolio Project](https://www.youtube.com/playlist?list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU)
@@ -141,16 +143,23 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## CSS Frameworks (Choose One)
 ![Slide 7](img/slide-7.jpg)
 
-### Bootstrap
-+ [Bootstrap 4 - Create 4 Real World Projects](https://www.udemy.com/course/bootstrap-4-create-4-real-world-projects-latest-411/) by Code And Create *(64 lectures / 10hrs)*
-+ [Bootstrap 4 From Scratch With 5 Projects](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/) by Brad Traversy *(74 lectures / 11.5hrs)*
-+ [Bootstrap 4 Tutorial and 10 Projects Course](https://www.udemy.com/course/bootstrap-4-beta-ultimate-projects-course/) by John Smilga *(250 lectures / 44hrs)*
-+ [The Bootstrap 4 Bootcamp](https://www.udemy.com/course/bootstrap-4-bootcamp/) by Colt Steele *(87 lectures / 11.5hrs)*
-+ [The Complete Bootstrap Masterclass Course - Build 4 Projects](https://www.udemy.com/course/bootstrapcourse/) by Joe Parys *(67 lectures / 7hrs)*
-
-### Materialize
-+ [Materialize CSS From Scratch With 5 Projects](https://www.udemy.com/course/materialize-css-from-scratch-with-5-projects/) by Brad Traversy *(63 lectures / 10.5hrs)*
-
++ [Bootstrap](https://getbootstrap.com/)
++ Suggested YouTube Videos:
+    + [Bootstrap Beginner Crash Course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
++ Suggested Udemy Courses:
+    + [Bootstrap 4 From Scratch With 5 Projects](https://www.udemy.com/course/bootstrap-4-from-scratch-with-5-projects/)
++ [Tailwind CSS](https://tailwindcss.com/)
++ Suggested YouTube Videos:
+    + [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
++ [Materialize](https://materializecss.com/)
++ Suggested YouTube Videos:
+    + [Materialize Crash Course [Part 1]](https://www.youtube.com/watch?v=nqT8c5OFjEQ)
+    + [Materialize Crash Course [Part 2]](https://www.youtube.com/watch?v=ZpduVPHZ5Aw)
++ Suggested Udemy Courses:
+    + [Materialize From Scratch With 5 Projects](https://www.udemy.com/course/materialize-css-from-scratch-with-5-projects/)
++ [Bulma](https://bulma.io/)
++ Suggested YouTube Videos:
+    + [Bulma CSS Framework Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg)
 
 
 ## Vanilla JavaScript
