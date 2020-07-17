@@ -5,8 +5,46 @@ Brad mentions in the video that you **DO NOT** need to learn everything here. He
 
 I have created a list of links below to certain sections of the video along with the slides so you can delve further into certain specific topics that you are interested in learning more about. I have also added links to the suggested YouTube tutorials highlighted in the video. Also, I have added links to relevant sections of Andrew Shearer's excellent [Web Development 2020 Course List](https://github.com/andrews1022/web-development-2020-course-list) that comprises a list of the top Udemy courses for each slide as well as other resources. In fact this very repository is based on his excellent work. However, not everyone likes or can afford Udemy courses on all of these topics so I wanted to provide links to the YouTube videos so that people can either learn for free or in a more bitesized manner.
 
-OK no time to waste and time to start learning cos it's gonna take you years to learn all of this stuff! 😊
+OK no time to waste and time to start learning cos it's gonna take you years to learn even part of this stuff! 😊
 
+## High Level Overview
+
++ Intro - [0:07](https://www.youtube.com/watch?v=0pThnRneDjw&t=7s)
++ What Do You Want To Do? - [1:28](https://www.youtube.com/watch?v=0pThnRneDjw&t=88s)
++ The Necessities - [2:38](https://www.youtube.com/watch?v=0pThnRneDjw&t=158s)
++ HTML/CSS (Building Blocks) - [7:10](https://www.youtube.com/watch?v=0pThnRneDjw&t=430s)
++ Responsive Web Design - [9:18](https://www.youtube.com/watch?v=0pThnRneDjw&t=558s)
++ Reusable CSS Components - [10:50](https://www.youtube.com/watch?v=0pThnRneDjw&t=650s)
++ CSS Frameworks - [12:26](https://www.youtube.com/watch?v=0pThnRneDjw&t=746s)
++ Vanilla JavaScript - [13:52](https://www.youtube.com/watch?v=0pThnRneDjw&t=832s)
++ Tools (Git, Dev Tools, etc) - [16:28](https://www.youtube.com/watch?v=0pThnRneDjw&t=988s)
++ Basic Deployment - [20:45](https://www.youtube.com/watch?v=0pThnRneDjw&t=1245s)
++ Basic Frontend Dev - [23:15](https://www.youtube.com/watch?v=0pThnRneDjw&t=1395s)
++ Where To Now? - [24:12](https://www.youtube.com/watch?v=0pThnRneDjw&t=1452s)
++ Frontend Framework - [25:00](https://www.youtube.com/watch?v=0pThnRneDjw&t=1500s)
++ Svelte - [27:14](https://www.youtube.com/watch?v=0pThnRneDjw&t=1634s)
++ State Management - [28:32](https://www.youtube.com/watch?v=0pThnRneDjw&t=1712s)
++ SSR (Next & Nuxt) - [30:40](https://www.youtube.com/watch?v=0pThnRneDjw&t=1840s)
++ SSG (Gatsby & Gridsome) - [33:04](https://www.youtube.com/watch?v=0pThnRneDjw&t=1984s)
++ TypeScript - [35:05](https://www.youtube.com/watch?v=0pThnRneDjw&t=2105s)
++ Frontend Wizard - [37:06](https://www.youtube.com/watch?v=0pThnRneDjw&t=2226s)
++ Server Side Language - [37:42](https://www.youtube.com/watch?v=0pThnRneDjw&t=2262s)
++ Server Side Framework - [42:52](https://www.youtube.com/watch?v=0pThnRneDjw&t=2572s)
++ Database - [47:37](https://www.youtube.com/watch?v=0pThnRneDjw&t=2857s)
++ GraphQL - [52:08](https://www.youtube.com/watch?v=0pThnRneDjw&t=3128s)
++ CMS & Headless CMS - [53:41](https://www.youtube.com/watch?v=0pThnRneDjw&t=3221s)
++ Deployment & DevOps - [55:22](https://www.youtube.com/watch?v=0pThnRneDjw&t=3322s)
++ Full Stack Dev - [59:23](https://www.youtube.com/watch?v=0pThnRneDjw&t=3563s)
++ Mobile Development - [59:51](https://www.youtube.com/watch?v=0pThnRneDjw&t=3591s)
++ PWA - [1:01:43](https://www.youtube.com/watch?v=0pThnRneDjw&t=3703s)
++ Desktop Apps With Electron - [1:03:19](https://www.youtube.com/watch?v=0pThnRneDjw&t=3799s)
++ JAMstack - [1:04:24](https://www.youtube.com/watch?v=0pThnRneDjw&t=3864s)
++ Serverless Architecture - [1:06:10](https://www.youtube.com/watch?v=0pThnRneDjw&t=3970s)
++ API-First Design - [1:07:24](https://www.youtube.com/watch?v=0pThnRneDjw&t=4044s)
++ Machine Learning & AI - [1:08:12](https://www.youtube.com/watch?v=0pThnRneDjw&t=4092s)
++ Speech Recognition - [1:09:03](https://www.youtube.com/watch?v=0pThnRneDjw&t=4143s)
++ Web Assembly - [1:09:42](https://www.youtube.com/watch?v=0pThnRneDjw&t=4182s)
++ Advice & Thank You - [1:11:21](https://www.youtube.com/watch?v=0pThnRneDjw&t=4281s)
 
 ## Tools 1 - The Necessities
 ![Slide 3](img/slide-3.jpg)
