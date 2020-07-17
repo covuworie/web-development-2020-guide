@@ -95,20 +95,29 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## The Building Blocks & Responsive Design
+## The Building Blocks
 ![Slide 4](img/slide-4.jpg)
-![Slide 5](img/slide-5.jpg)
 
-### HTML & CSS
-+ [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by Jonas Schmedtmann *(77 lectures / 12hrs)*
-+ [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/) by Brad Traversy *(128 lectures / 21hrs)*
-+ [Web Design for Beginners: Real World Coding in HTML & CSS](https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/) by Brad Schiff *(59 lectures / 9hrs)*
+### HTML
++ Suggested YouTube Videos:
+    + [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
+
++ Suggested Udemy Course:
+    + [Modern HTML & CSS From The Beginning](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
 
 ### CSS
-+ [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) by Jonas Schmedtmann *(125 lectures / 28hrs)*
-+ [CSS - The Complete Guide 2020 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/) by Maximilian Schwarzmüller *(296 lectures / 22.5hrs)*
-+ [CSS Bootcamp - Master CSS (Including CSS Grid / Flexbox)](https://www.udemy.com/course/css-bootcamp-master-in-css-including-css-grid-flexbox/) by Code And Create *(89 lectures / 11.5hrs)*
++ Suggested YouTube Videos:
+    + [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+    + [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
+    + [Flexbox in 20 Minutes](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+    
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#css)
 
+### HTML & CSS
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#html--css)
+
+## Responsive Design
+![Slide 5](img/slide-5.jpg)
 
 
 ## Custom Reusable CSS Components
