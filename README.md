@@ -247,6 +247,16 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
     
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#front-end-framework--state-management-choose-one)
 
+
+## Svelte
+![Slide 14](img/slide-14.jpg)
+
++ [Svelte](https://svelte.dev/)
++ Suggested YouTube Videos:
+    + [Svelte Crash Course](https://www.youtube.com/watch?v=uK2RnIzrQ0M)
+    
+
+
 ## State Management
 ![Slide 15](img/slide-15.jpg)
 
