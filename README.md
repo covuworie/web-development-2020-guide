@@ -222,6 +222,14 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
     + [SSH Crash Course | With Some DevOps](https://www.youtube.com/watch?v=hQWRp-FdTpc)
 
 
+## Where To Now?
+![Slide 12](img/slide-12.jpg)
+
++ Suggested YouTube Videos:
+    + [Front End, Back End & Full Stack Web Development](https://www.youtube.com/watch?v=eRZHzi3l-4Q)
+    + [10 Things All Web Developers Should Learn](https://www.youtube.com/watch?v=uPMm4dJmSoM)
+
+
 
 ## Front-End Framework & State Management (Choose One)
 ![Slide 13](img/slide-13.jpg)
