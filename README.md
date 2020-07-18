@@ -183,30 +183,25 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Tools 2 - Essential Dev Tools
 ![Slide 9](img/slide-9.jpg)
 
-### Git/GitHub
-+ [Complete Git Guide: Understand and master Git and GitHub](https://www.udemy.com/course/git-and-github-complete-guide/) by Bogdan Stashchuk *(215 lectures / 18hrs)*
-+ [Git & GitHub Masterclass](https://www.udemy.com/course/git-and-github-masterclass/) by Tim Buchalka & Eduardo Rosas *(73 lectures / 11.5hrs)*
-+ [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff *(68 lectures / 15hrs)*
-+ [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/course/git-complete/) by Jason Taylor *(84 lectures / 6hrs)*
-+ [Git Essentials: Learn Git with Bitbucket and Sourcetree](https://www.udemy.com/course/git-with-bitbucket-and-sourcetree/) by Justin Rose *(58 lectures / 2.5hrs)*
-+ [Git Github Gitkraken: Version Control without Command Line](https://www.udemy.com/course/git-github-gitkraken-version-control-without-command-line/) by Peter Gunardi *(35 lectures / 2.5hrs)*
-+ [GIT: Advanced commands](https://www.udemy.com/course/git-advanced-commands/) by Brian Gorman *(40 lectures / 4hrs)*
-+ [GitHub Ultimate: Master Git and GitHub - Beginner to Expert](https://www.udemy.com/course/github-ultimate/) by Jason Taylor *(151 lectures / 6.5hrs)*
-
-
-### NPM
-+ [Understanding NPM - Node.js Package Manager](https://www.udemy.com/course/understanding-npm/) by Bogdan Stashchuk *(40 lectures / 2.5hrs)*
-
-### Yarn
-+ [Yarn Dependency Management - The Complete Guide](https://www.udemy.com/course/yarn-dependency-management/) by Ray Viljoen *(22 lectures / 1.5hrs)*
-
-### Webpack
-+ [Webpack 4 in 2019: The Complete Tutorial For Beginners](https://www.udemy.com/course/webpack-from-beginner-to-advanced/) by Viktor Pyskunov *(52 lectures / 3.5hrs)*
-
-### A Bit of Everything
-+ [Git a Web Developer Job: Mastering the Modern Workflow](https://www.udemy.com/course/git-a-web-developer-job-mastering-the-modern-workflow/) by Brad Schiff *(68 lectures / 15hrs)*
-+ [JavaScript Infrastructure: CLI, NPM, Babel 7 and Webpack 4](https://www.udemy.com/course/2019-js-infrastructure-course-npm-babel-7-webpack-4/) by OnlyKiosk Tech *(68 lectures / 3.5hrs)*
-
++ [Git](https://git-scm.com/) (Version Control) & [GitHub](https://github.com/)
++ [Browser Dev Tools](https://en.wikipedia.org/wiki/Web_development_tools)
++ [VSCode Extensions](https://marketplace.visualstudio.com/)
++ [Emmet](https://emmet.io/)
++ [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) (Package Manager)
++ [Axios](https://github.com/axios/axios)
++ [Webpack](https://webpack.js.org/) or [Parcel](https://parceljs.org/) (JS Module Bundlers)
++ Suggested YouTube Videos:
+    + [Linux Tutorial - Basic Command Line](https://www.youtube.com/watch?v=cBokz0LTizk)
+    + [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+    + [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
+    + [Yarn Crash Course](https://www.youtube.com/watch?v=g9_6KmiBISk)
+    + [Google Chrome Developer Tools Crash Course](https://www.youtube.com/watch?v=x4q86IjJFag)
+    + [Emmet Crash Course](https://www.youtube.com/watch?v=5BIAdWNcr8Y)
+    + [Webpack Crash Course](https://www.youtube.com/watch?v=lziuNMk_8eQ)
+    + [Exploring The Parcel Application Bundler](https://www.youtube.com/watch?v=DYZTFooDB24)
+    + [Axios Crash Course | HTTP Library](https://www.youtube.com/watch?v=6LyagkoRWYA)
+    
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#tools-2---essential-dev-tools)
 
 
 ## Front-End Framework & State Management (Choose One)
