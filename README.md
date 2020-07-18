@@ -231,8 +231,23 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## Front-End Framework & State Management (Choose One)
+## Front-End Framework (Choose One)
 ![Slide 13](img/slide-13.jpg)
+
++ [React](https://reactjs.org/)
++ [Vue](https://vuejs.org/)
++ [Angular](https://angular.io/)
++ Suggested YouTube Videos:
+    + [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A)
+    + [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
+    + [Angular Crash Course](https://www.youtube.com/watch?v=Fdf5aTYRW0E)
++ Suggested Udemy Courses:
+    + [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/)
+    + [Angular Front To Back](https://www.udemy.com/course/angular-4-front-to-back/)
+    
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#front-end-framework--state-management-choose-one)
+
+## State Management
 ![Slide 15](img/slide-15.jpg)
 
 ### React
