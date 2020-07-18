@@ -204,6 +204,25 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#tools-2---essential-dev-tools)
 
 
+## Basic Deployment
+![Slide 10](img/slide-10.jpg)
+
++ [Domain Registration](https://whois.icann.org/en/domain-name-registration-process) ([NameCheap](https://www.namecheap.com/), [Google Domains](https://domains.google/), etc.)
++ [Managed Hosting](https://en.wikipedia.org/wiki/Dedicated_hosting_service) ([InMotion](https://www.inmotionhosting.com/), [Hostgator](https://www.hostgator.com/), [Bluehost](https://www.bluehost.com/), etc.)
++ [Static Hosting](https://en.wikipedia.org/wiki/Static_web_page) ([Netlify](https://www.netlify.com/), [GitHub Pages](https://pages.github.com/))
++ [SSL Certificate](https://us.norton.com/internetsecurity-how-to-ssl-certificates-what-consumers-need-to-know.html#:~:text=An%20SSL%20certificate%20is%20a,the%20time%20of%20certificate%20issuance.)
+
++ [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol), [SFTP](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) (File Transfer Protocol)
++ [SSH](https://en.wikipedia.org/wiki/Secure_Shell) (Secure Shell)
++ [CLI & Git](https://git-scm.com/docs/gitcli)
++ Suggested YouTube Videos:
+    + [Web Hosting & cPanel Guide - How To Easily Upload Your Website](https://www.youtube.com/watch?v=UN7S4zd8h-k)
+    + [Deploy Websites in Seconds With Netlify](https://www.youtube.com/watch?v=bjVUqvcCnxM)
+    + [Github Pages Deploy & Domain](https://www.youtube.com/watch?v=SKXkC4SqtRk)
+    + [SSH Crash Course | With Some DevOps](https://www.youtube.com/watch?v=hQWRp-FdTpc)
+
+
+
 ## Front-End Framework & State Management (Choose One)
 ![Slide 13](img/slide-13.jpg)
 ![Slide 15](img/slide-15.jpg)
