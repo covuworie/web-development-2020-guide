@@ -304,10 +304,12 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## TypeScript
 ![Slide 18](img/slide-18.jpg)
 
-### TypeScript
-+ [Typescript: The Complete Developer's Guide [2020]](https://www.udemy.com/course/typescript-the-complete-developers-guide/) by Stephen Grider *(278 lectures / 24.5hrs)*
-+ [Understanding TypeScript - 2020 Edition](https://www.udemy.com/course/understanding-typescript/) by Maximilian Schwarzmüller *(352 lectures / 22hrs)*
++ [TypeScript](https://www.typescriptlang.org/)
++ Suggested YouTube Videos:
+    + [TypeScript Crash Course](https://www.youtube.com/watch?v=rAy_3SIqT-E)
+    + [Setup TypeScript With Node & Express](https://www.youtube.com/watch?v=zRo2tvQpus8)
 
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#typescript)
 
 
 ## Server-Side Language (Choose One)
