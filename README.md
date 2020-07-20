@@ -277,14 +277,12 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Server-Side Rendering
 ![Slide 16](img/slide-16.jpg)
 
-### Next (React)
-+ [Complete Next.js with React & Node - Beautiful Portfolio App](https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/) by Filip Jerga *(241 lectures / 38.5hrs)*
-+ [Server side rendering with Next + React](https://www.udemy.com/course/server-side-rendering-with-next-react/) by Coding Revolution *(170 lectures / 29.5hrs)*
-+ [Universal React with Next.js - The Ultimate Guide](https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/) by Reed Barger *(90 lectures / 9.5hrs)*
++ Suggested YouTube Videos:
+    + [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
+    + [Nuxt JS Crash Course](https://www.youtube.com/watch?v=ltzlhAxJr74)
+    + [Nest JS Crash Course](https://www.youtube.com/watch?v=wqhNoDE6pb4)
 
-### Nuxt (Vue)
-+ [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/) by Maximilian Schwarzmüller *(106 lectures / 6.5hrs)*
-
++ [Shearer's Links](https://github.com/covuworie/web-development-2020-course-list#server-side-rendering)
 
 
 ## Static Site Generators
