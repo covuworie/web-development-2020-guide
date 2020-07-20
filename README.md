@@ -367,40 +367,19 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Database (Choose One)
 ![Slide 22](img/slide-22.jpg)
 
-### PostgreSQL
-+ [Intro To PostgreSQL Databases With PgAdmin For Beginners](https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin/) by John Elder *(24 lectures / 2hrs)*
-+ [SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL](https://www.udemy.com/course/sqldatabases/) by Kirill Eremenko & Ilya Eremenko *(103 lectures / 12.5hrs)*
-+ [SQL & PostgreSQL for Beginners](https://www.udemy.com/course/sql-and-postgresql-for-beginners/) by Jon Avis *(109 lectures / 8hrs)*
-+ [Up and Running With PostgreSQL 11](https://www.udemy.com/course/postgres/) by Nelson Djalo *(103 lectures / 12.5hrs)*
-
-### MySQL
-+ [MySQL, SQL and Stored Procedures from Beginner to Advanced](https://www.udemy.com/course/mysql-and-sql-from-beginner-to-advanced/) by John Purcell *(136 lectures / 18.5hrs)*
-+ [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/) by 365 Careers *(286 lectures / 9.5hrs)*
-+ [SQL Beginner to Guru: MySQL Edition - Master SQL with MySQL](https://www.udemy.com/course/sql-beginner-to-guru-mysql-edition/) by John Thompson *(166 lectures / 11hrs)*
-+ [SQL for Beginners: Learn SQL using MySQL and Database Design](https://www.udemy.com/course/sql-for-beginners-course/) by Tim Buchalka & Jon Avis *(122 lectures / 8hrs)*
-+ [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/) by Colt Steele & Ian Schoonover *(319 lectures / 20hrs)*
-
-### MS SQL
-+ [SQL & Database Design A-Z™: Learn MS SQL Server + PostgreSQL](https://www.udemy.com/course/sqldatabases/) by Kirill Eremenko & Ilya Eremenko *(103 lectures / 12.5hrs)*
-
-### MongoDB
-+ [MongoDB - The Complete Developer's Guide](https://www.udemy.com/course/mongodb-the-complete-developers-guide/) by Maximilian Schwarzmüller *(263 lectures / 17hrs)*
-+ [MongoDB Essentials - Complete MongoDB Guide](https://www.udemy.com/course/mongodb-essentials-m/) by John Purcell *(223 lectures / 10.5hrs)*
-+ [The Complete Developers Guide to MongoDB](https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/)by Stephen Grider *(129 lectures / 13.5hrs)*
-
-### CouchDB
-+ [Understanding CouchDB : Learn Basic & Advanced NoSQL Skills](https://www.udemy.com/course/understanding-couchdb/) by Greg Miller (aka Mad Pink) *(51 lectures / 6.5hrs)*
-
-### Firebase
-+ **NOTE** There aren't really any courses on JUST Firebase specifically, it is usually paired with something else. Popular choices include **Angular**, **Vue**, **iOS**, & **Android**.
-
-### Azure & AWS
-+ There are *_WAY_* too many course on these, and I am not familiar with them at all, so I am not sure what to place here. You will have to search/research them on your own.
-
-### Redis
-+ [Learn Redis from Scratch](https://www.udemy.com/course/learn-redis-from-scratch/) by Eduonix *(32 lectures / 3hrs)*
-
-
++ Relational Database - [PostGreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [MS SQL](https://www.microsoft.com/en-us/sql-server)
++ NoSQL - [MongoDB](https://www.mongodb.com/), [RethinkDB](https://rethinkdb.com/), [CouchDB](http://couchdb.apache.org/)
++ Cloud Database - [Firebase](https://firebase.google.com/), [Azure Cloud DB](https://azure.microsoft.com/en-us/product-categories/databases/), [AWS](https://aws.amazon.com/products/databases/)
++ Lightweight & Cache - [Redis](https://redis.io/), [SQLite](https://www.sqlite.org/), [NeDB](https://github.com/louischatriot/nedb)
++ Suggested YouTube Videos:
+    + [MySQL Crash Course | Learn SQL](https://www.youtube.com/watch?v=9ylj9NR0Lcg)
+    + [MongoDB Crash Course](https://www.youtube.com/watch?v=-56x56UppqQ)
+    + [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998)
+    + [An Introduction To NoSQL Databases](https://www.youtube.com/watch?v=uD3p_rZPBUQ)
+    + [RethinkDB & ReQL Crash Course](https://www.youtube.com/watch?v=pW3PFtchHDc)
+    
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#database-choose-one)
+    
 
 ## GraphQL
 ![Slide 23](img/slide-23.jpg)
