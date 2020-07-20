@@ -277,10 +277,13 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Server-Side Rendering
 ![Slide 16](img/slide-16.jpg)
 
++ [Next.js](https://nextjs.org/)
++ [Nuxt.js](https://nuxtjs.org/)
++ [NestJS](https://nestjs.com/)
 + Suggested YouTube Videos:
     + [Next.js Crash Course - Server Side React](https://www.youtube.com/watch?v=IkOVe40Sy0U)
     + [Nuxt JS Crash Course](https://www.youtube.com/watch?v=ltzlhAxJr74)
-    + [Nest JS Crash Course](https://www.youtube.com/watch?v=wqhNoDE6pb4)
+    + [NestJS Crash Course](https://www.youtube.com/watch?v=wqhNoDE6pb4)
 
 + [Shearer's Links](https://github.com/covuworie/web-development-2020-course-list#server-side-rendering)
 
@@ -288,16 +291,13 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Static Site Generators
 ![Slide 17](img/slide-17.jpg)
 
-### Gatsby (React)
-+ [Gatsby JS & Firebase: Build HYBRID realtime + static sites](https://www.udemy.com/course/gatsby-js-firebase-hybrid-realtime-static-sites/) by Tom Phillips *(65 lectures / 5hrs)*
-+ [Gatsby JS: Build PWA Blog With GraphQL And React + WordPress](https://www.udemy.com/course/gatsby-js-build-pwa-blog-with-graphql-and-react-wordpress/) by Rangel Stoilov *(42 lectures / 4hrs)*
-+ [Gatsby JS: Build static sites with React Wordpress & GraphQL](https://www.udemy.com/course/gatsby-js-react-wordpress-graphql/) by Tom Phillips *(42 lectures / 4hrs)*
-+ [Gatsby Tutorial and Projects Course](https://www.udemy.com/course/gatsby-tutorial-and-projects-course/) by John Smilga *(323 lectures / 38.5hrs)*
-+ [Gatsby with Wordpress as a headless CMS (2019)](https://www.udemy.com/course/gatsby-with-wordpress/) by Thomas Weibenfalk *(29 lectures / 6hrs)*
-+ [The Gatsby Masterclass](https://www.udemy.com/course/the-gatsby-masterclass/) by Reed Barger *(43 lectures / 4hrs)*
++ [GatsbyJS](https://www.gatsbyjs.org/)
++ [Gridsome](https://gridsome.org/)
++ [Scully](https://github.com/scullyio/scully)
++ Suggested YouTube Videos:
+    + [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc)
 
-### Gridsome (Vue)
-+ [Blazing-Fast Vue and GraphQL with Gridsome](https://www.udemy.com/course/blazing-fast-vue-and-graphql-with-gridsome/) by Reed Barger *(28 lectures / 3hrs)*
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#static-site-generators)
 
 
 
