@@ -384,10 +384,13 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## GraphQL
 ![Slide 23](img/slide-23.jpg)
 
-### GraphQL
-+ [The Modern GraphQL Bootcamp (with Node.js and Apollo)](https://www.udemy.com/course/graphql-bootcamp/) by Andrew Mead *(118 lectures / 23.5hrs)*
-+ **NOTE:** Similar to Firebase, GraphQL is also usually paired with something else. The most popular of which seem to be **React**, **Node**, & **Gatsby**.
++ [GraphQL](https://graphql.org/)
++ [Apollo](https://www.apollographql.com/)
++ Suggested YouTube Videos:
+    + [Build a GraphQL Server](https://www.youtube.com/playlist?list=PLillGF-RfqbYZty73_PHBqKRDnv7ikh68)
+    + [GraphQL With React & Apollo ](https://www.youtube.com/playlist?list=PLillGF-RfqbZrjw48EXLdM4dsOhURCLZx)
 
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#graphql-1)
 
 
 ## Content Management
