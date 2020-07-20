@@ -315,56 +315,27 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Server-Side Language (Choose One)
 ![Slide 20](img/slide-20.jpg)
 
-### Node
-+ [Learn and Understand NodeJS](https://www.udemy.com/course/understand-nodejs/) by Anthony Alicea *(97 lectures / 13hrs)*
-+ [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/) by Stephen Grider *(166 lectures / 16hrs)*
-+ [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/course/nodejs-api-masterclass/) by Brad Traversy *(76 lectures / 12hrs)*
-+ [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann *(166 lectures / 16hrs)*
-+ [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani *(224 lectures / 15hrs)*
-+ [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/) by Maximilian Schwarzmüller *(487 lectures / 36hrs)*
-+ [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) by Andrew Mead & Rob Percival *(177 lectures / 34.5hrs)*
-+ [The Definitive Node.Js Developer Course](https://www.udemy.com/course/the-definitive-nodejs-developer-course/) by Coding Revolution *(239 lectures / 23.5hrs)*
++ [Node.js](https://nodejs.org/)
++ [Python](https://www.python.org/)
++ [PHP](https://www.php.net/)
++ [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
++ [Ruby](https://www.ruby-lang.org/en/)
++ [GoLang](https://golang.org/)
++ [Java](https://www.java.com/)
++ [Rust](https://www.rust-lang.org/)
++ Suggested YouTube Videos:
+    + [Node.js Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
+    + [Python Crash Course For Beginners](https://www.youtube.com/watch?v=JJmcL1N2KQs)
+    + [PHP Front To Back](https://www.youtube.com/playlist?list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn)
+    + [Build a C# .NET Application in 60 Minutes](https://www.youtube.com/watch?v=GcFJjpMFJvI&list=LL1eflqsFiNRyUj1o2JFypVg&index=515)
+    + [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U)
+    + [Rust Crash Course | Rustlang](https://www.youtube.com/watch?v=zF34dRivLOw)
++ Suggested Udemy Courses:
+    + [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/course/nodejs-api-masterclass/)
+    + [Object Oriented PHP & MVC](https://www.udemy.com/course/object-oriented-php-mvc/)
+    + [Python Django Dev To Deployment](https://www.udemy.com/course/python-django-dev-to-deployment/)
 
-### Python
-+ [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/) by Jose Portilla *(185 lectures / 24hrs)*
-+ [Complete Python Developer in 2020: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) by Andrei Neagoie *(320 lectures / 30.5hrs)*
-+ [Learn Python Programming Masterclass](https://www.udemy.com/course/python-the-complete-python-developer-course/) by Tim Buchalka & Jean-Paul Roberts *(276 lectures / 46hrs)*
-+ [Python for Absolute Beginners](https://www.udemy.com/course/python-for-absolute-beginners-u/) by Green Chameleon Learning *(67 lectures / 3hrs)*
-+ [The Complete Python Course | Learn Python by Doing](https://www.udemy.com/course/the-complete-python-course/) by Jose Salvatierra & Rob Percival *(343 lectures / 35hrs)*
-+ [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) by Colt Steele *(374 lectures / 29.5hrs)*
-+ [The Python Bible™ | Everything You Need to Program in Python](https://www.udemy.com/course/the-python-bible/) by Ziyad Yehia *(73 lectures / 9hrs)*
-+ [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/course/the-python-mega-course/) by Ardit Sulce *(264 lectures / 23.5hrs)*
-
-### PHP
-+ [Object Oriented PHP & MVC](https://www.udemy.com/course/object-oriented-php-mvc/) by Brad Traversy *(44 lectures / 6.5hrs)*
-+ [PHP for Beginners - Become a PHP Master - CMS Project](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/) by Edwin Diaz *(344 lectures / 38hrs)*
-+ [PHP OOP: Object Oriented Programming for beginners + Project](https://www.udemy.com/course/oop-php-object-oriented-programing-with-project-1-course/) by Edwin Diaz *(224 lectures / 18.5hrs)*
-
-### C#
-+ [C# Advanced Topics: Prepare for Technical Interviews](https://www.udemy.com/course/csharp-advanced/) by Mosh Hamedani *(21 lectures / 3hrs)*
-+ [C# Basics for Beginners: Learn C# Fundamentals by Coding](https://www.udemy.com/course/csharp-tutorial-for-beginners/) by Mosh Hamedani *(87 lectures / 5hrs)*
-+ [C# Intermediate: Classes, Interfaces and OOP](https://www.udemy.com/course/csharp-intermediate-classes-interfaces-and-oop/) by Mosh Hamedani *(45 lectures / 5.5hrs)*
-+ [Complete C# Masterclass](https://www.udemy.com/course/complete-csharp-masterclass/) by Denis Panjuta *(222 lectures / 31.5hrs)*
-+ [Design Patterns in C# and .NET](https://www.udemy.com/course/design-patterns-csharp-dotnet/) by Dmitri Nesteruk *(145 lectures / 15.5hrs)*
-+ [Learn C# By Building Applications](https://www.udemy.com/course/learn-csharp-by-building-applications/) by Avetis Ghukasyan *(100 lectures / 13.5hrs)*
-+ [The Complete C# and Object-Oriented Programming Course](https://www.udemy.com/course/the-complete-c-sharp-developer-course/) by Ahmad Mohey *(21 lectures / 21hrs)*
-
-### Ruby
-+ [Learn to Code with Ruby](https://www.udemy.com/course/learn-to-code-with-ruby-lang/) by Boris Paskhaver *(257 lectures / 31.5hrs)*
-
-### GoLang
-+ [Go (Golang): The Complete Bootcamp](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/) by Jose Portilla & Inanc Gumus *(297 lectures / 22hrs)*
-+ [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/) by Stephen Grider *(82 lectures / 9hrs)*
-+ [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/) by Todd McLeod *(373 lectures / 46.5hrs)*
-+ [Web Development w/ Google’s Go (golang) Programming Language](https://www.udemy.com/course/go-programming-language/) by Todd McLeod *(171 lectures / 19hrs)*
-
-### Java
-+ [Java In-Depth: Become a Complete Java Engineer!](https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/) by Dheeru Mundluru *(349 lectures / 62.5hrs)*
-+ [Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/) by Tim Buchalka & Kevin McClung *(396 lectures / 79.5hrs)*
-
-### Rust
-+ [The Rust Programming Language](https://www.udemy.com/course/rust-lang/) by Dmitri Nesteruk *(51 lectures / 7hrs)*
-
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#server-side-language-choose-one)
 
 
 ## Server-Side Framework (Choose One)
