@@ -465,15 +465,15 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Jamstack](https://jamstack.org/) (JavaScript, APIs & Markup)
 
 
-
 ## Serverless Architecture
 ![Slide 31](img/slide-31.jpg)
 
-### AWS Lambda
-+ [AWS Lambda & Serverless Architecture Bootcamp (Build 5 Apps)](https://www.udemy.com/course/aws-lambda-serverless-architecture/) by Riyaz Sayyad *(301 lectures / 25.5hrs)*
-+ [AWS Lambda and the Serverless Framework - Hands On Learning!](https://www.udemy.com/course/aws-lambda-serverless/) by Stephane Maarek *(38 lectures / 2.5hrs)*
-+ [AWS Serverless APIs & Apps - A Complete Introduction](https://www.udemy.com/course/aws-serverless-a-complete-introduction/) by Maximilian Schwarzmüller *(142 lectures / 7.5hrs)*
-+ [Build a Serverless App with AWS Lambda - Hands On!](https://www.udemy.com/course/build-a-serverless-app-with-aws-lambda-hands-on/) by Frank Kane & Brian Tajuddin *(60 lectures / 7.5hrs)*
++ [Serverless](https://www.serverless.com/)
++ [AWS Lambda](https://aws.amazon.com/lambda/) & [Netlify](https://www.netlify.com/)
++ Suggested YouTube Videos:
+    + [Serverless Lambda Functions](https://www.youtube.com/watch?v=drJwMlD9Mjo)
+
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#aws-lambda)
 
 
 
