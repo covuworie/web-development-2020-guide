@@ -451,10 +451,12 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Desktop Apps with Electron
 ![Slide 29](img/slide-29.jpg)
 
-### Electron
-+ [Electron for Desktop Apps: The Complete Developer's Guide](https://www.udemy.com/course/electron-react-tutorial/) by Stephen Grider *(77 lectures / 8hrs)*
-+ [Master Electron: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/course/master-electron/) by Ray Viljoen *(57 lectures / 7.5hrs)*
++ [Electron](https://www.electronjs.org/)
++ Suggested YouTube Videos:
+    + [An Intro To Electron - Desktop Apps with JavaScript](https://www.youtube.com/watch?v=mr9Mtm_TRpw&list=LLB12cCeOKb29sDbNAmTP2fA&index=270)
+    + [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)
 
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#desktop-apps-with-electron)
 
 
 ## JAMstack
