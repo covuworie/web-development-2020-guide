@@ -408,39 +408,20 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Deployment & DevOps
 ![Slide 25](img/slide-25.jpg)
 
-### SSH (Secure Shell)
-+ [Beginner SSH Secure Shell - Hands on!](https://www.udemy.com/course/sshcourse/) by Patrik Staš *(61 lectures / 4.5hrs)*
-+ [Secure Shell Fundamentals - Learn SSH By Configuring It](https://www.udemy.com/course/secure-shell-fundamentals-learn-ssh-by-configuring-it/) by Ted LeRoy *(33 lectures / 3.5hrs)*
++ [SSH](https://www.ssh.com/ssh/) (Secure Shell)
++ Web Server Environment - [NGINX](https://nginx.org/), [Apache HTTP Server](https://httpd.apache.org/)
++ App Hosting - [Linode](https://www.linode.com/), [Heroku](https://www.heroku.com/), [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/en-us/), [Now](https://nowhosting.net/)
++ Virtualization - [Docker](https://www.docker.com/), [Vagrant](https://www.vagrantup.com/)
++ Testing - Unit, Functional, Integration, etc.
++ Load Balancing, Monitoring, Security, etc.
++ Suggested YouTube Videos:
+    + [SSH Crash Course | With Some DevOps](https://www.youtube.com/watch?v=hQWRp-FdTpc)
+    + [Full Node.js Deployment - NGINX, SSL With Lets Encrypt](https://www.youtube.com/watch?v=oykl1Ih9pMg)
+    + [Exploring Docker](https://www.youtube.com/playlist?list=PLillGF-Rfqbb6vZqT-Lzi9Al_noaY5LAs)
+    + [Vagrant Crash Course](https://www.youtube.com/watch?v=vBreXjkizgo)
+    + [Jest Crash Course - Unit Testing in JavaScript](https://www.youtube.com/watch?v=7r4xVDI2vho)
 
-### NGINX
-+ [Nginx Fundamentals: High Performance Servers from Scratch](https://www.udemy.com/course/nginx-fundamentals/) by Ray Viljoen *(39 lectures / 4hrs)*
-+ [The Perfect Nginx Server - Ubuntu Edition](https://www.udemy.com/course/the-perfect-nginx-server-ubuntu-edition/) by Andrew Eaton *(94 lectures / 9hrs)*
-
-### Apache
-+ [Setup Your Own Web Hosting Environment](https://www.udemy.com/course/setup-your-own-web-hosting-environment/) by Gabriel Avramescu *(17 lectures / 2hrs)*
-+ _There a ton of variants when it comes to Apache. There's **Tomcat**, **Kafka**, **Spark**, **Cassandra**, and more. You'll have to do some research on your own which one suits your needs as I am not familiar with this topic myself._
-
-### Linode
-+ [Setup a Virtual Web Server using Linode or Digital Ocean](https://www.udemy.com/course/setup-a-virtual-web-server-using-linode-or-digital-ocean/) by YouAccel Training *(37 lectures / 2.5hrs)*
-
-### Heroku
-+ While there aren't really any courses on how to deploy a site to Heroku, there are plenty of tutorials over on [YouTube](https://www.youtube.com/results?search_query=deploy+to+heroku) you can use.
-
-### Docker
-+ [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) by Stephen Grider *(299 lectures / 21.5hrs)*
-+ [Docker Crash Course for busy DevOps and Developers](https://www.udemy.com/course/docker-tutorial-for-devops-run-docker-containers/) by Tao W. & James Lee *(49 lectures / 3hrs)*
-+ [Docker for the Absolute Beginner - Hands On - DevOps](https://www.udemy.com/course/learn-docker/) by Mumshad Mannambeth *(48 lectures / 4hrs)*
-+ [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) by Bret Fisher *(172 lectures / 19.5hrs)*
-+ [Docker Swarm Mastery: DevOps Style Cluster Orchestration](https://www.udemy.com/course/docker-swarm-mastery/) by Bret Fisher *(66 lectures / 9.5hrs)*
-
-### Vagrant
-+ [Vagrant Fundamentals for Achieving DevOps Success](https://www.udemy.com/course/vagrant-fundamentals/) by Craig Dunn *(21 lectures / 1hrs)*
-+ [Vagrant Quick Start: Virtualized Development Environments](https://www.udemy.com/course/vagrant-quick-start/) by Jason Taylor *(52 lectures / 2hrs)*
-+ [Vagrant Up! Comprehensive development system automation](https://www.udemy.com/course/vagrant-up/) by Jason Taylor *(46 lectures / 4.5hrs)*
-
-### SSL
-+ [SSL Complete Guide 2019: HTTP to HTTPS](https://www.udemy.com/course/ssl-complete-guide/) by Bogdan Stashchuk *(109 lectures / 11hrs)*
-
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#deployment--devops)
 
 
 ## Mobile Development (Choose One)
