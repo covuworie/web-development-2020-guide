@@ -440,9 +440,12 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## PWA: Progressive Web Apps
 ![Slide 28](img/slide-28.jpg)
 
-### Progressive Web Apps
-+ [Progressive Web Apps (PWA) - The Complete Guide](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide/) by Maximilian Schwarzmüller *(206 lectures / 16hrs)*
++ [Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) (PWAs)
++ Suggested YouTube Videos:
+    + [Intro To Service Workers & Caching](https://www.youtube.com/watch?v=ksXwaWHCW6k)
+    + [Build a PWA With Vue & Ionic 4](https://www.youtube.com/watch?v=6H1wftPS0oo)
 
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#progressive-web-apps)
 
 
 ## Desktop Apps with Electron
