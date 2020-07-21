@@ -427,46 +427,14 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Mobile Development (Choose One)
 ![Slide 27](img/slide-27.jpg)
 
-### Flutter & Dart
-+ [Dart and Flutter: The Complete Developer's Guide](https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/) by Stephen Grider *(401 lectures / 31hrs)*
-+ [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/) by Paulo Dichone *(226 lectures / 29hrs)*
-+ [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) by Maximilian Schwarzmüller *(604 lectures / 58.5hrs)*
-+ [The Complete 2020 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) by Angela Yu *(199 lectures / 26.5hrs)*
++ [Flutter](https://flutter.dev/)
++ [React Native](https://reactnative.dev/)
++ [NativeScript](https://nativescript.org/)
++ [Ionic](https://ionicframework.com/)
++ [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
 
-### React Native
-+ [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/) by Maximilian Schwarzmüller *(473 lectures / 43.5hrs)*
-+ [React Native: Advanced Concepts](https://www.udemy.com/course/react-native-advanced/) by Stephen Grider *(151 lectures / 16.5hrs)*
-+ [The Complete React Native + Hooks Course [2019 Edition]](https://www.udemy.com/course/the-complete-react-native-and-redux-course/) by Stephen Grider *(418 lectures / 38.5hrs)*
-+ [The Complete React Native Course (2nd Edition)](https://www.udemy.com/course/the-complete-react-native-course-create-beautiful-apps/) by Coding Revolution *(315 lectures / 57hrs)*
 
-### NativeScript
-+ [NativeScript + Angular: Build Native iOS, Android & Web Apps](https://www.udemy.com/course/nativescript-angular-build-native-ios-android-web-apps/) by Maximilian Schwarzmüller *(240 lectures / 20.5hrs)*
-
-### Ionic
-+ [Ionic 4 - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/) by Maximilian Schwarzmüller *(508 lectures / 34.5hrs)*
-
-### Xamarin
-+ [The Advanced Xamarin Developer Masterclass](https://www.udemy.com/course/the-advanced-xamarin-developer-masterclass/) by Tim Buchalka & Eduardo Rosas *(88 lectures / 13.5hrs)*
-+ [The Complete Xamarin Developer Course: iOS And Android!](https://www.udemy.com/course/complete-xamarin-developer-course-ios-and-android/) by Tim Buchalka & Eduardo Rosas *(205 lectures / 29hrs)*
-+ [Xamarin Forms: Build Native Cross-platform Apps with C#](https://www.udemy.com/course/xamarin-forms-course/) by Mosh Hamedani *(117 lectures / 7.5hrs)*
-
-### Java
-+ [Android Java Masterclass - Become an App Developer](https://www.udemy.com/course/master-android-7-nougat-java-app-development-step-by-step/) by Tim Buchalka & Jean-Paul Roberts *(320 lectures / 60hrs)*
-+ [Android O & Java - The Complete Android Development Bootcamp](https://www.udemy.com/course/android-app-development-with-java/) by Philipp Muellauer *(289 lectures / 21hrs)*
-+ [The Complete Android & Java Developer Course - Build 21 Apps](https://www.udemy.com/course/complete-android-developer-course/) by Paulo Dichone *(228 lectures / 34.5hrs)*
-+ [The Complete Android Q + Java Developer Course™ : 2019](https://www.udemy.com/course/java-android-complete-guide/) by Morteza Kordi & Maid Rondić *(582 lectures / 141hrs)*
-
-### Kotlin
-+ [Android App Development Masterclass using Kotlin](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/) by Tim Buchalka & Jean-Paul Roberts *(295 lectures / 52.5hrs)*
-+ [Kotlin Android Development Masterclass](https://www.udemy.com/course/kotlin-android-developer-masterclass/) by Paulo Dichone *(223 lectures / 32.5hrs)*
-+ [Kotlin for Android O Development: From Beginner to Advanced](https://www.udemy.com/course/kotlinandroid/) by Atil Samancioglu & Joe Parys *(191 lectures / 15.5hrs)*
-+ [The Complete Android + Kotlin Developer Course™](https://www.udemy.com/course/complete-kotlin-android-developer-course-tutorial/) by Morteza Kordi & Maid Rondić *(272 lectures / 37hrs)*
-+ [The Complete Android Kotlin Developer Course](https://www.udemy.com/course/the-complete-kotlin-developer-course/) by Hussein Al Rubaye *(205 lectures / 33.5hrs)*
-
-### Swift
-+ [iOS 13 & Swift 5 - The Complete iOS App Development Bootcamp](https://www.udemy.com/course/ios-13-app-development-bootcamp/) by Angela Yu *(510 lectures / 58hrs)*
-+ [The Complete iOS 13 Developer Course - and SwiftUI!](https://www.udemy.com/course/the-complete-ios-developer-course-with-swift/) by Rob Percival & Atil Samancioglu *(299 lectures / 36hrs)*
-
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#mobile-development-choose-one)
 
 
 ## PWA: Progressive Web Apps
