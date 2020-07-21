@@ -456,11 +456,13 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
     + [An Intro To Electron - Desktop Apps with JavaScript](https://www.youtube.com/watch?v=mr9Mtm_TRpw&list=LLB12cCeOKb29sDbNAmTP2fA&index=270)
     + [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)
 
-+ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#desktop-apps-with-electron)
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#electron)
 
 
 ## JAMstack
 ![Slide 30](img/slide-30.jpg)
+
++ [Jamstack](https://jamstack.org/) (JavaScript, APIs & Markup)
 
 
 
