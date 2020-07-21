@@ -396,21 +396,14 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Content Management
 ![Slide 24](img/slide-24.jpg)
 
-### WordPress
-+ [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff *(113 lectures / 27hrs)*
-+ [Complete WordPress Development Themes and Plugins Course](https://www.udemy.com/course/wordpress-theme-and-plugin-development-course/) by Zac Gordon *(175 lectures / 16hrs)*
-+ [The Complete WordPress Aliexpress Dropship course](https://www.udemy.com/course/the-complete-aliexpress-dropshipping-course/) by Tim Sharp *(65 lectures / 4.5hrs)*
-+ [The Complete WordPress Website Business Course](https://www.udemy.com/course/the-complete-wordpress-website-business-course/) by Rob Percival & Gregg Davis *(102 lectures / 21.5hrs)*
-+ [Wordpress for Beginners - Master Wordpress Quickly](https://www.udemy.com/course/wordpress-for-beginners-course/) by Andrew Williams *(92 lectures / 7.5hrs)*
-+ [WordPress for Beginners: Create a Website Step by Step](https://www.udemy.com/course/wordpress-for-beginners-create-a-website-blog-step-by-step/) by Brad Schiff *(23 lectures / 5hrs)*
-+ [WordPress Theme Development with Bootstrap](https://www.udemy.com/course/bootstrap-to-wordpress/) by Brad Hussey *(83 lectures / 12hrs)*
++ Traditional CMS - [Wordpress](https://wordpress.com/), [Drupal](https://www.drupal.org/), [Keystone](https://keystonejs.com/), [Enduro](http://www.endurojs.com/)
++ Headless CMS - [Contentful](https://www.contentful.com/), [Prismic.io](https://prismic.io/), [Sanity](https://www.sanity.io/), [Strapi](https://strapi.io/)
++ Suggested YouTube Videos:
+    + [Wordpress Site in 1 Hour](https://www.youtube.com/watch?v=66n1DFrmc0Q)
+    + [Exploring The Wordpress REST API & React Integration](https://www.youtube.com/watch?v=fFNXWinbgro)
+    + [Keystone JS Tutorial - A Node.js CMS](https://www.youtube.com/watch?v=DPXDFeUEk3g)
 
-### Drupal
-+ [Drupal 8 for Beginners](https://www.udemy.com/course/drupal-8-for-beginners/) by Packt Publishing *(37 lectures / 4hrs)*
-+ [DRUPAL TUTORIAL: Drupal 8 Beginner to Advanced in 8 PROJECTS](https://www.udemy.com/course/drupal-tutorial/) by Srikanth Shirodkar *(79 lectures / 7.5hrs)*
-+ [Learning Drupal 8](https://www.udemy.com/course/learning-drupal-8/) by Infinite Skills *(101 lectures / 9.5hrs)*
-
-
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#content-management)
 
 ## Deployment & DevOps
 ![Slide 25](img/slide-25.jpg)
