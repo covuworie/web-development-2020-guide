@@ -493,16 +493,11 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Machine Learning / AI & The Web
 ![Slide 33](img/slide-33.jpg)
 
-### Python
-+ [Complete Guide to TensorFlow for Deep Learning with Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/) by Jose Portilla *(96 lectures / 14hrs)*
-+ [Data Science: Deep Learning in Python](https://www.udemy.com/course/data-science-deep-learning-in-python/) by Lazy Programmer Inc. *(85 lectures / 10.5hrs)*
-+ [Machine Learning, Data Science and Deep Learning with Python](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/) by Frank Kane *(110 lectures / 14hrs)*
-+ [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/course/machinelearning/) by Kirill Eremenko & Hadelin de Ponteves *(294 lectures / 41hrs)*
-+ [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) by Jose Portilla *(149 lectures / 22.5hrs)*
++ [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
++ Suggested YouTube Videos:
+    + [Simple Machine Learning With JavaScript - Brain.js](https://www.youtube.com/watch?v=RVMHhtTqUxc)
 
-### JavaScript
-+ [Machine Learning with Javascript](https://www.udemy.com/course/machine-learning-with-javascript/) by Stephen Grider *(185 lectures / 17.5hrs)*
-
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#machine-learning--ai--the-web)
 
 
 ## Speech Recognition
