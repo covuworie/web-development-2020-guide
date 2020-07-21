@@ -494,6 +494,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ![Slide 33](img/slide-33.jpg)
 
 + [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
++ [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) (AI)
 + Suggested YouTube Videos:
     + [Simple Machine Learning With JavaScript - Brain.js](https://www.youtube.com/watch?v=RVMHhtTqUxc)
 
@@ -502,6 +503,13 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 ## Speech Recognition
 ![Slide 34](img/slide-34.jpg)
+
++ [Speech Recognition](https://en.wikipedia.org/wiki/Speech_recognition)
++ [HTML5 Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API)
++ [Google Speech-To-Text](https://cloud.google.com/speech-to-text)
++ [Dialogflow](https://cloud.google.com/dialogflow)
++ Suggested YouTube Videos:
+    + [Text To Speech & Synthesis App - JavaScript & Web Speech API](https://www.youtube.com/watch?v=ZORXxxP49G8)
 
 
 
