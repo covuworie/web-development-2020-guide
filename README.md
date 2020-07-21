@@ -516,51 +516,11 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Web Assembly
 ![Slide 35](img/slide-35.jpg)
 
++ [Web Assembly](https://webassembly.org/)
+
+
 ___
 
-Wow, that is a **_LOT_** to learn! 2020 is looking to be an amazing time to learn about web development, and far more than that too. 
+If all that wasn't enough then here are even more links:
 
-But wait, there's **MORE!!**
-
-_gasps_
-
-Udemy is also well known for having all-in-one full stack web development courses, as well as more recently full stack courses with specific technologies, such as MERN, MEAN, and recently MEVN. These 3 all use the same 3 letters: M, E, & N which stand for MongoDB, Express, and Node. The key difference between them is which JavaScript library/framework they use. MERN uses React, MEAN uses Angular, and MEVN uses Vue. You can find courses for these listed below.
-
-Also below are courses for Data Structures & Algorithms, as well as interview prep. JavaScript interviews, especially at large companies like Google, Amazon, Apple, Facebook, etc., are infamous for their whiteboard coding challenges. Below are some of the top courses for Data Structures & Algorithms for JavaScript to help you ace your next interview.
-
-And finally, testing, or Test-Driven Development (TDD). TDD is actually quite important, so knowing how to test your code will be huge boost to your resume/skill set and set you apart from other candidates when you start applying for jobs.
-
-## Full Stack (Beginner)
-+ [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Angela Yu *(468 lectures / 54hrs)*
-+ [The Complete Web Developer Course 2.0](https://www.udemy.com/course/the-complete-web-developer-course-2/) by Rob Percival *(308 lectures / 30.5hrs)*
-+ [The Complete Web Developer in 2020: Zero to Mastery](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) by Andrei Neagoie *(340 lectures / 35hrs)*
-+ [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) by Colt Steele *(404 lectures / 47hrs)*
-
-## Full Stack (Advanced)
-+ [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/) by Colt Steele, Elie Schoppik, Tim Garcia, & Matt Lane *(391 lectures / 34hrs)*
-+ [The Complete Junior to Senior Web Developer Roadmap (2020)](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/) by Andrei Neagoie *(395 lectures / 35.5hrs)*
-
-## MERN
-+ [MERN Stack - React Node from Scratch Building Social Network](https://www.udemy.com/course/node-react/) by Ryan Dhungel *(234 lectures / 21.5hrs)*
-+ [MERN Stack - The Complete Guide](https://www.udemy.com/course/mern-stack-the-complete-guide/) by Reed Barger *(44 lectures / 8.5hrs)*
-+ [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/course/mern-stack-front-to-back/) by Brad Traversy *(73 lectures / 12hrs)*
-+ [MERN Stack React Node Ecommerce from Scratch to Deployment](https://www.udemy.com/course/react-node-ecommerce/) by Ryan Dhungel *(162 lectures / 16.5hrs)*
-+ [MERN Stack React Node Multi User Blogging Platform with SEO](https://www.udemy.com/course/react-node-nextjs-fullstack-multi-user-blogging-platform-with-seo/) by Ryan Dhungel *(170 lectures / 21hrs)*
-+ [MERN Stack Web Development with Ultimate Authentication](https://www.udemy.com/course/mern-stack/) by Ryan Dhungel *(82 lectures / 9.5hrs)*
-+ [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/) by Stephen Grider *(207 lectures / 26hrs)*
-+ [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/) by Maximilian Schwarzmüller & Manuel Lorenz *(206 lectures / 19hrs)*
-+ [The complete React Fullstack course ( 2nd edition )](https://www.udemy.com/course/the-complete-react-fullstack-course/) by Coding Revolution *(455 lectures / 73hrs)*
-
-## MEAN
-+ [Angular & NodeJS - The MEAN Stack Guide [2020 Edition]](https://www.udemy.com/course/angular-2-and-nodejs-the-practical-guide/) by Maximilian Schwarzmüller *(149 lectures / 13hrs)*
-
-## Data Structures & Algorithms/Interview Prep
-+ [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) by Colt Steele *(249 lectures / 22hrs)*
-+ [Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) by Andrei Neagoie *(259 lectures / 19.5hrs)*
-+ [The Coding Interview Bootcamp: Algorithms + Data Structures](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) by Stephen Grider *(135 lectures / 13hrs)*
-+ [Ultimate JavaScript Interview Course](https://www.udemy.com/course/ultimate-javascript-interview-course/) by Eric Traub *(243 lectures / 11hrs)*
-
-## Test / Test Driven Development (TDD)
-+ [2019 Update! React Testing with Jest and Enzyme](https://www.udemy.com/course/react-testing-with-jest-and-enzyme/) by Bonnie Schulkin *(162 lectures / 12hrs)*
-+ [Node.js Unit Testing In-Depth](https://www.udemy.com/course/nodejs-unit-testing-in-depth/) by Murtez Alrohani *(44 lectures / 2.5hrs)*
-+ Unfortunately there isn't much on testing for JavaScript on Udemy, but there are numerous, great tutorials for this over on **[YouTube](https://www.youtube.com/results?search_query=javascript+testing)**.
+[Shearer's Other Links](https://github.com/andrews1022/web-development-2020-course-list#full-stack-beginner)
