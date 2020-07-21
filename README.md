@@ -480,21 +480,13 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## API-First Design
 ![Slide 32](img/slide-32.jpg)
 
-### APIs
-+ [Advanced REST APIs with Flask and Python](https://www.udemy.com/course/advanced-rest-apis-flask-python/) by Jose Salvatierra *(130 lectures / 12.5hrs)*
-+ [API and Web Service Introduction](https://www.udemy.com/course/api-and-web-service-introduction/) by Nate Ross *(53 lectures / 5.5hrs)*
-+ [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/course/nodejs-api-masterclass/) by Brad Traversy *(76 lectures / 12hrs)*
-+ [Node.js, Express, MongoDB & More: The Complete Bootcamp 2020](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) by Jonas Schmedtmann *(227 lectures / 42hrs)*
-+ [Node.js: The Complete Guide to Build RESTful APIs (2018)](https://www.udemy.com/course/nodejs-master-class/) by Mosh Hamedani *(224 lectures / 15hrs)*
-+ [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/) by Maximilian Schwarzmüller *(487 lectures / 36hrs)*
-+ [Postman: The Complete Guide - REST API Testing](https://www.udemy.com/course/postman-the-complete-guide/) by Valentin Despa *(131 lectures / 14hrs)*
-+ [Python REST APIs with Flask, Docker, MongoDB, and AWS DevOps](https://www.udemy.com/course/python-rest-apis-with-flask-docker-mongodb-and-aws-devops/) by Tim Buchalka & El Farouk Yasser *(45 lectures / 10.5hrs)*
-+ [REST API Design, Development & Management](https://www.udemy.com/course/rest-api/) by Rajeev Sakhuja *(50 lectures / 7hrs)*
-+ [REST API Testing (Automation) from Scratch - Rest Assured Java](https://www.udemy.com/course/rest-api-automation-testing-rest-assured/) by Rahul Shetty *(133 lectures / 23.5hrs)*
-+ [REST API Testing, Automation via Postman + real Google API](https://www.udemy.com/course/rest-api-testing-automation-via-postman-git-jenkins-jira/) by Sergei Semenov *(29 lectures / 2.5hrs)*
-+ [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/) by Jose Salvatierra *(170 lectures / 17hrs)*
-+ [WebServices API Testing Using Rest Assured API & Postman](https://www.udemy.com/course/webservices-testing-restassured-api-tutorial/) by Rahul Arora *(138 lectures / 37.5hrs)*
-+ [WebServices/Rest API Testing with SoapUI + Real Time Project](https://www.udemy.com/course/webservices-testing-with-soap-ui/) by Rahul Shetty *(107 lectures / 19hrs)*
++ [API First Design](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
++ Suggested YouTube Videos:
+    + [What Is A RESTful API? Explanation of REST & HTTP](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
++ Suggested Udemy Courses:
+    + [Node.js API Masterclass With Express & MongoDB](https://www.udemy.com/course/nodejs-api-masterclass/)
+
++ [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#apis)
 
 
 
