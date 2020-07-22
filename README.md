@@ -46,7 +46,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + Web Assembly - [1:09:42](https://www.youtube.com/watch?v=0pThnRneDjw&t=4182s)
 + Advice & Thank You - [1:11:21](https://www.youtube.com/watch?v=0pThnRneDjw&t=4281s)
 
-## Tools 1 - The Necessities
+## Tools 1 - The Necessities ([2:38](https://www.youtube.com/watch?v=0pThnRneDjw&t=158s))
 ![Slide 3](img/slide-3.jpg)
 
 ### Computer & OS
@@ -95,7 +95,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## The Building Blocks
+## The Building Blocks ([7:10](https://www.youtube.com/watch?v=0pThnRneDjw&t=430s))
 ![Slide 4](img/slide-4.jpg)
 
 ### HTML
@@ -117,7 +117,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ### HTML & CSS
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#html--css)
 
-## Responsive Design
+## Responsive Design ([9:18](https://www.youtube.com/watch?v=0pThnRneDjw&t=558s))
 ![Slide 5](img/slide-5.jpg)
 
 + Suggested YouTube Videos:
@@ -127,7 +127,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
     + [Build a Netflix Clone](https://www.youtube.com/watch?v=P7t13SGytRk) (HTML / CSS)
 
 
-## Custom Reusable CSS Components
+## Custom Reusable CSS Components ([10:50](https://www.youtube.com/watch?v=0pThnRneDjw&t=650s))
 ![Slide 6](img/slide-6.jpg)
 
 + [Syntactically Awesome Style Sheets (Sass)](https://sass-lang.com/)
@@ -140,7 +140,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## CSS Frameworks (Choose One)
+## CSS Frameworks (Choose One) ([12:26](https://www.youtube.com/watch?v=0pThnRneDjw&t=746s))
 ![Slide 7](img/slide-7.jpg)
 
 + [Bootstrap](https://getbootstrap.com/)
@@ -162,7 +162,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
     + [Bulma CSS Framework Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg)
 
 
-## Vanilla JavaScript
+## Vanilla JavaScript ([13:52](https://www.youtube.com/watch?v=0pThnRneDjw&t=832s))
 ![Slide 8](img/slide-8.jpg)
 
 + [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -180,7 +180,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## Tools 2 - Essential Dev Tools
+## Tools 2 - Essential Dev Tools ([16:28](https://www.youtube.com/watch?v=0pThnRneDjw&t=988s))
 ![Slide 9](img/slide-9.jpg)
 
 + [Git](https://git-scm.com/) (Version Control) & [GitHub](https://github.com/)
@@ -204,7 +204,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#tools-2---essential-dev-tools)
 
 
-## Basic Deployment
+## Basic Deployment ([20:45](https://www.youtube.com/watch?v=0pThnRneDjw&t=1245s))
 ![Slide 10](img/slide-10.jpg)
 
 + [Domain Registration](https://whois.icann.org/en/domain-name-registration-process) ([NameCheap](https://www.namecheap.com/), [Google Domains](https://domains.google/), etc.)
@@ -222,7 +222,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
     + [SSH Crash Course | With Some DevOps](https://www.youtube.com/watch?v=hQWRp-FdTpc)
 
 
-## Where To Now?
+## Where To Now? ([24:12](https://www.youtube.com/watch?v=0pThnRneDjw&t=1452s))
 ![Slide 12](img/slide-12.jpg)
 
 + Suggested YouTube Videos:
@@ -231,7 +231,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## Front-End Framework (Choose One)
+## Front-End Framework (Choose One) ([25:00](https://www.youtube.com/watch?v=0pThnRneDjw&t=1500s))
 ![Slide 13](img/slide-13.jpg)
 
 + [React](https://reactjs.org/)
@@ -248,7 +248,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#front-end-framework--state-management-choose-one)
 
 
-## Svelte
+## Svelte ([27:14](https://www.youtube.com/watch?v=0pThnRneDjw&t=1634s))
 ![Slide 14](img/slide-14.jpg)
 
 + [Svelte](https://svelte.dev/)
@@ -258,7 +258,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#svelte-1)
 
 
-## State Management
+## State Management ([28:32](https://www.youtube.com/watch?v=0pThnRneDjw&t=1712s))
 ![Slide 15](img/slide-15.jpg)
 
 + [React - Redux](https://react-redux.js.org/), [Context API with Hooks](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
@@ -274,7 +274,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## Server-Side Rendering
+## Server-Side Rendering ([30:40](https://www.youtube.com/watch?v=0pThnRneDjw&t=1840s))
 ![Slide 16](img/slide-16.jpg)
 
 + [Next.js](https://nextjs.org/)
@@ -288,7 +288,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/covuworie/web-development-2020-course-list#server-side-rendering)
 
 
-## Static Site Generators
+## Static Site Generators ([33:04](https://www.youtube.com/watch?v=0pThnRneDjw&t=1984s))
 ![Slide 17](img/slide-17.jpg)
 
 + [GatsbyJS](https://www.gatsbyjs.org/)
@@ -301,7 +301,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## TypeScript
+## TypeScript ([35:05](https://www.youtube.com/watch?v=0pThnRneDjw&t=2105s))
 ![Slide 18](img/slide-18.jpg)
 
 + [TypeScript](https://www.typescriptlang.org/)
@@ -312,7 +312,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#typescript)
 
 
-## Server-Side Language (Choose One)
+## Server-Side Language (Choose One) ([37:42](https://www.youtube.com/watch?v=0pThnRneDjw&t=2262s))
 ![Slide 20](img/slide-20.jpg)
 
 + [Node.js](https://nodejs.org/)
@@ -338,7 +338,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#server-side-language-choose-one)
 
 
-## Server-Side Framework (Choose One)
+## Server-Side Framework (Choose One) ([42:52](https://www.youtube.com/watch?v=0pThnRneDjw&t=2572s))
 ![Slide 21](img/slide-21.jpg)
 
 + Node.js - [Express](https://expressjs.com/), [Koa](https://koajs.com/), [Adonis](https://adonisjs.com/), [Feathers.js](https://feathersjs.com/), [Nest.js](https://nestjs.com/)
@@ -364,7 +364,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#server-side-framework-choose-one)
 
 
-## Database (Choose One)
+## Database (Choose One) ([47:37](https://www.youtube.com/watch?v=0pThnRneDjw&t=2857s))
 ![Slide 22](img/slide-22.jpg)
 
 + Relational Database - [PostGreSQL](https://www.postgresql.org/), [MySQL](https://www.mysql.com/), [MS SQL](https://www.microsoft.com/en-us/sql-server)
@@ -381,7 +381,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#database-choose-one)
     
 
-## GraphQL
+## GraphQL ([52:08](https://www.youtube.com/watch?v=0pThnRneDjw&t=3128s))
 ![Slide 23](img/slide-23.jpg)
 
 + [GraphQL](https://graphql.org/)
@@ -393,7 +393,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#graphql-1)
 
 
-## Content Management
+## Content Management ([53:41](https://www.youtube.com/watch?v=0pThnRneDjw&t=3221s))
 ![Slide 24](img/slide-24.jpg)
 
 + Traditional CMS - [Wordpress](https://wordpress.com/), [Drupal](https://www.drupal.org/), [Keystone](https://keystonejs.com/), [Enduro](http://www.endurojs.com/)
@@ -405,7 +405,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#content-management)
 
-## Deployment & DevOps
+## Deployment & DevOps ([55:22](https://www.youtube.com/watch?v=0pThnRneDjw&t=3322s))
 ![Slide 25](img/slide-25.jpg)
 
 + [SSH](https://www.ssh.com/ssh/) (Secure Shell)
@@ -424,7 +424,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#deployment--devops)
 
 
-## Mobile Development (Choose One)
+## Mobile Development (Choose One) ([59:51](https://www.youtube.com/watch?v=0pThnRneDjw&t=3591s))
 ![Slide 27](img/slide-27.jpg)
 
 + [Flutter](https://flutter.dev/)
@@ -437,7 +437,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#mobile-development-choose-one)
 
 
-## PWA: Progressive Web Apps
+## PWA: Progressive Web Apps ([1:01:43](https://www.youtube.com/watch?v=0pThnRneDjw&t=3703s))
 ![Slide 28](img/slide-28.jpg)
 
 + [Progressive Web Apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) (PWAs)
@@ -448,7 +448,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#progressive-web-apps)
 
 
-## Desktop Apps with Electron
+## Desktop Apps with Electron ([1:03:19](https://www.youtube.com/watch?v=0pThnRneDjw&t=3799s))
 ![Slide 29](img/slide-29.jpg)
 
 + [Electron](https://www.electronjs.org/)
@@ -459,13 +459,13 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#electron)
 
 
-## JAMstack
+## JAMstack ([1:04:24](https://www.youtube.com/watch?v=0pThnRneDjw&t=3864s))
 ![Slide 30](img/slide-30.jpg)
 
 + [Jamstack](https://jamstack.org/) (JavaScript, APIs & Markup)
 
 
-## Serverless Architecture
+## Serverless Architecture ([1:06:10](https://www.youtube.com/watch?v=0pThnRneDjw&t=3970s))
 ![Slide 31](img/slide-31.jpg)
 
 + [Serverless](https://www.serverless.com/)
@@ -477,7 +477,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## API-First Design
+## API-First Design ([1:07:24](https://www.youtube.com/watch?v=0pThnRneDjw&t=4044s))
 ![Slide 32](img/slide-32.jpg)
 
 + [API First Design](https://swagger.io/resources/articles/adopting-an-api-first-approach/)
@@ -490,7 +490,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## Machine Learning / AI & The Web
+## Machine Learning / AI & The Web ([1:08:12](https://www.youtube.com/watch?v=0pThnRneDjw&t=4092s))
 ![Slide 33](img/slide-33.jpg)
 
 + [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
@@ -501,7 +501,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 + [Shearer's Links](https://github.com/andrews1022/web-development-2020-course-list#machine-learning--ai--the-web)
 
 
-## Speech Recognition
+## Speech Recognition ([1:09:03](https://www.youtube.com/watch?v=0pThnRneDjw&t=4143s))
 ![Slide 34](img/slide-34.jpg)
 
 + [Speech Recognition](https://en.wikipedia.org/wiki/Speech_recognition)
@@ -513,7 +513,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 
 
-## Web Assembly
+## Web Assembly ([1:09:42](https://www.youtube.com/watch?v=0pThnRneDjw&t=4182s))
 ![Slide 35](img/slide-35.jpg)
 
 + [Web Assembly](https://webassembly.org/)
