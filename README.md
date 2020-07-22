@@ -121,7 +121,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ![Slide 5](img/slide-5.jpg)
 
 + Suggested YouTube Videos:
-    + [Build an HTML5 Website Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw)
+    + [Build an HTML5 Website With A Responsive Layout](https://www.youtube.com/watch?v=Wm6CUkswsNw)
     + [Responsive Landing Page Using HTML & CSS (A Little jQuery)](https://www.youtube.com/watch?v=GJXXf3_dcng)
     + [Build a Responsive Mobile First Website](https://www.youtube.com/watch?v=XsEnj-1hG2o)
     + [Build a Netflix Clone](https://www.youtube.com/watch?v=P7t13SGytRk) (HTML / CSS)
