@@ -132,6 +132,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 + [Syntactically Awesome Style Sheets (Sass)](https://sass-lang.com/)
 + Suggested YouTube Videos:
+    + [Sass Crash Course](https://www.youtube.com/watch?v=nu5mdN2JIwM)
     + [Social Network Theme With Sass](https://www.youtube.com/playlist?list=PLillGF-Rfqba3xeEvDzIcUCxwMlGiewfV)
     + [Responsive Portfolio Project](https://www.youtube.com/playlist?list=PLillGF-RfqbYoGoCjKoMOkVznV6aSXKzU)
     + [Fancy Form UI From Scratch](https://www.youtube.com/watch?v=AiTdhLc8JCo)
