@@ -270,6 +270,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
     + [Redux Crash Course With React](https://www.youtube.com/watch?v=93p3LxR9xfM)
     + [Vuex Crash Course | State Management](https://www.youtube.com/watch?v=5lVQgZzLMHc)
     + [Build an Expense Tracker | React Hooks & Context API](https://www.youtube.com/watch?v=XuFDcZABiDQ)
+    + [Full NGRX Course 2020 - OOP Coders](https://www.youtube.com/playlist?list=PLV-DQnYj14bRFWMmuT6ptSL4v5fxMJnOS)
 + Suggested Udemy Courses:
     + [MERN Stack Front To Back: Full Stack React, Redux & Node.js](https://www.udemy.com/course/mern-stack-front-to-back/)
 
