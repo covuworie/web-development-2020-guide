@@ -235,13 +235,13 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 ## Front-End Framework (Choose One) ([25:00](https://www.youtube.com/watch?v=0pThnRneDjw&t=1500s))
 ![Slide 13](img/slide-13.jpg)
 
-+ [React](https://reactjs.org/)
-+ [Vue](https://vuejs.org/)
-+ [Angular](https://angular.io/)
++ [React](https://reactjs.org/) (Optional: [MUI](https://mui.com/))
++ [Vue](https://vuejs.org/), (Optional: [Vue Material](https://www.creative-tim.com/vuematerial/))
++ [Angular](https://angular.io/), (Optional: [Angular Material](https://material.angular.io/), [Angular Flex-Layout](https://github.com/angular/flex-layout))
 + Suggested YouTube Videos:
     + [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A)
     + [Vue JS Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U)
-    + [Angular Crash Course](https://www.youtube.com/watch?v=Fdf5aTYRW0E)
+    + [Angular Crash Course](https://www.youtube.com/watch?v=Fdf5aTYRW0E), [Learn Angular Material](https://www.youtube.com/watch?v=jUfEn032IL8)
 + Suggested Udemy Courses:
     + [React Front To Back](https://www.udemy.com/course/modern-react-front-to-back/)
     + [Angular Front To Back](https://www.udemy.com/course/angular-4-front-to-back/)
