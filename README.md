@@ -264,7 +264,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
 
 + [React - Redux](https://react-redux.js.org/), [Context API with Hooks](https://medium.com/simply/state-management-with-react-hooks-and-context-api-at-10-lines-of-code-baf6be8302c)
 + Vue - [Vuex](https://vuex.vuejs.org/)
-+ Angular - [NGRX](https://ngrx.io/), [Services](https://angular.io/guide/architecture-services)
++ Angular - [NGRX](https://ngrx.io/), [NGRX Facades](https://auth0.com/blog/ngrx-facades-pros-and-cons/), [Services](https://angular.io/guide/architecture-services), [Observable Data Services](https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/), [Smart Components vs Presentation Components](https://blog.angular-university.io/angular-2-smart-components-vs-presentation-components-whats-the-difference-when-to-use-each-and-why/)
 + [Apollo Client](https://www.apollographql.com/docs/react/)
 + Suggested YouTube Videos:
     + [Redux Crash Course With React](https://www.youtube.com/watch?v=93p3LxR9xfM)
