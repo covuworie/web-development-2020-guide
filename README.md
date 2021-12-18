@@ -354,6 +354,7 @@ OK no time to waste and time to start learning cos it's gonna take you years to 
     + [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
     + [Koa.js Crash Course - Modern & Minimalist Node.js](https://www.youtube.com/watch?v=z84uTk5zmak)
     + [Getting Started With Adonis JS 4.0](https://www.youtube.com/playlist?list=PLillGF-RfqbY6wY9yZjCpSMzvhn-icuG6)
+    + [NestJS Crash Course](https://www.youtube.com/watch?v=wqhNoDE6pb4)
     + [Django Crash Course](https://www.youtube.com/watch?v=e1IyzVyrLSU)
     + [Python Flask From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_)
     + [Laravel From Scratch](https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-)
